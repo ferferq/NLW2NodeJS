@@ -13,6 +13,6 @@ Uma plataforma para professores e alunos
 - [nodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
-- [knex] (https://knexjs.org/)
-- [SQL] (https://www.sqlite.org/index.html)
+- [knex](https://knexjs.org/)
+- [SQL](https://www.sqlite.org/index.html)
 
